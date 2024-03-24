@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Delete all
+// @name         Aminos.ai Delete all
 // @namespace    http://tampermonkey.net/
 // @version      2024-03-19
 // @description  try to take over the world!
